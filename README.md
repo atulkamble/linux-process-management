@@ -121,3 +121,12 @@ fg %1
 sudo apt install htop sysstat  # For Debian/Ubuntu
 sudo yum install htop sysstat  # For RHEL/CentOS
 ```
+## 👨‍💻 Author
+
+**Atul Kamble**
+
+- 🌐 [Website](https://www.atulkamble.in)
+- 🐙 [GitHub](https://github.com/atulkamble)
+- 🐦 [X](https://x.com/Atul_Kamble)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
+- 📷 [Instagram](https://www.instagram.com/atuljkamble)
